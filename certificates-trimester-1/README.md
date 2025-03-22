@@ -21,7 +21,7 @@ As part of my curriculum at **Holberton School**, I’ve worked on several open-
 
 You can view my **IBM Open Source Certificate** below:
 
-[📜 View my IBM Open Source certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/raw/main/certificates-trimester-1/certificate-oss.pdf)
+[📜 View my IBM Open Source certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.pdf)
 
 This certificate is a testament to my dedication and hard work, and I am excited to continue exploring the world of open-source software.
 
@@ -52,7 +52,7 @@ As part of my curriculum at **Holberton School**, I’ve worked on projects that
 
 You can view my **IBM Agile Certificate** below:
 
-[📜 View my IBM Agile certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/raw/main/certificates-trimester-1/certificate-agile.pdf)
+[📜 View my IBM Agile certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-agile.pdf)
 
 This certificate is a testament to my commitment to Agile practices and my ability to work efficiently within Agile teams. I’m excited to continue refining my skills and contributing to projects using Agile methodologies.
 
