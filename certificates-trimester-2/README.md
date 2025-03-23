@@ -24,7 +24,7 @@ As part of my curriculum at **Holberton School**, I have worked on various SQL p
 
 You can view my **IBM SQL Certificate** below:
 
-[📜 View my IBM SQL certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-sql.pdf)
+[📜 View my IBM SQL certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.pdf)
 
 This certificate represents my ability to work with SQL databases effectively and efficiently.
 
@@ -54,7 +54,7 @@ Through my studies, I have gained expertise in:
 
 You can view my **IBM SQLi Guardium Certificate** below:
 
-[📜 View my IBM SQLi Guardium certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-sqli-guardium.pdf)
+[📜 View my IBM SQLi Guardium certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sqli-guardium.pdf)
 
 This certificate demonstrates my commitment to securing databases and applying best practices in SQL security.
 
