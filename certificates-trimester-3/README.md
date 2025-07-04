@@ -27,7 +27,7 @@ This course provided a strong theoretical base to help me confidently approach m
 
 You can view my **IBM Cloud Computing Certificate** below:
 
-[📜 View my Cloud Computing Certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud)
+[📜 View my Cloud Computing Certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf)
 
 This certificate demonstrates my readiness to navigate foundational cloud concepts and prepare for more advanced learning and real-world application.
 
@@ -62,7 +62,7 @@ This learning path gave me a practical and conceptual framework to think like a 
 
 You can view my **Cybersecurity Fundamentals Certificate** below:
 
-[📜 View my Cybersecurity Certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1)
+[📜 View my Cybersecurity Certificate](https://github.com/Zairth/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf)
 
 This certificate shows my awareness of cybersecurity essentials and marks the beginning of a deeper journey into protecting systems and data.
 
